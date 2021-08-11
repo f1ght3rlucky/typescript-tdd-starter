@@ -1,1 +1,5 @@
-console.log('Hello world!');
+export class Index {
+  getUser() {
+    return true;
+  }
+}
